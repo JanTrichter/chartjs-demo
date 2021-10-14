@@ -13,3 +13,12 @@ html {
 h1 {
   text-align: center;
 }
+
+.wrapper {
+  width: 50vw;
+  margin: 0 auto;
+  display: grid;
+  place-items: center;
+  padding: 3em;
+  border: 1px solid #2e2e2e;
+}
